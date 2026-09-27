@@ -161,7 +161,7 @@ derived data is permitted.
 
 | Need | Source | To verify |
 |---|---|---|
-| English and Hindi rows | `mteb/amazon_massive_intent` | licence and required attribution (row-parallelism confirmed, see section 5) |
+| English and Hindi rows | `mteb/amazon_massive_intent` | CC BY 4.0 (original: AmazonScience/massive) — redistribution permitted with attribution |
 | Assamese rows | none exists | must be translated from English |
 | Translation | IndicTrans2 | licence; record exact model version |
 | Transliteration | TODO — pick one | licence; record exact version |
@@ -304,6 +304,7 @@ Named so they do not creep in:
 ## Open TODOs
 
 1. ~~Row-parallelism of `hi` and `en`~~ — resolved 2026-09-27, see section 5.
-2. Licences for the dataset, IndicTrans2, and the chosen transliteration tool.
+2. ~~Licences for the dataset~~ — resolved 2026-09-27: MASSIVE is CC BY 4.0 (see `sources/README.md`). Still open: IndicTrans2 and the transliteration
+   tool.
 3. Named verifiers for Assamese and Hindi, with realistic item counts.
 4. Which transliteration tool and version.
