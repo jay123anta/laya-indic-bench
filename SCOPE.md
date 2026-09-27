@@ -101,7 +101,7 @@ datasets.
 | Id | Description | Source |
 |---|---|---|
 | `en` | English original | MASSIVE `en`, rows 1–100 |
-| `hi_native` | Hindi, Devanagari | MASSIVE `hi` **if row-parallel with `en`** (TODO 1) |
+| `hi_native` | Hindi, Devanagari | MASSIVE `hi`, verified row-parallel with `en` |
 | `as_native` | Assamese, Bengali-Assamese script | translated from `en` |
 | `hi_roman` | Hindi transliterated to Latin | from `hi_native` |
 | `as_roman` | Assamese transliterated to Latin | from `as_native` |
@@ -111,6 +111,14 @@ datasets.
 The `translated` conditions test the practical alternative every developer
 considers: translate first, then use the English checkpoint.
 
+
+**Row-parallelism verified 2026-09-27.** `mteb/amazon_massive_intent` `hi`
+rows align with `en` row for row: 200/200 label match over the first 200 rows,
+both configs 2,974 rows, all Hindi rows in Devanagari, no row identical
+(`results/parallelism_check.json`, laya 0.3.20). Note that MASSIVE localises
+entities — English row 101 says "new york city" where Hindi says "शिमला" — so
+rows are semantically parallel, not literal translations.
+
 ## 6. Models under test
 
 | Id | Checkpoint | Why |
@@ -118,6 +126,7 @@ considers: translate first, then use the English checkpoint.
 | `laya-en` | `convaiinnovations/laya` | expected to fail on Indic scripts — measured deliberately |
 | `laya-multi` | `convaiinnovations/laya`, `--subfolder multilingual` | the realistic choice |
 | `router` | `laya.Router` defaults | tests the routing decision itself, not just the model |
+| `julia-1` | `SupersonicLabs/Julia-1` | second open decision model on the same MASSIVE task; 2–20 options, so 20 is at its ceiling |
 
 Plus two non-model baselines: **random** (0.05) and **majority class**.
 
@@ -152,7 +161,7 @@ derived data is permitted.
 
 | Need | Source | To verify |
 |---|---|---|
-| English and Hindi rows | `mteb/amazon_massive_intent` | licence; whether `hi` rows are row-parallel with `en` |
+| English and Hindi rows | `mteb/amazon_massive_intent` | licence and required attribution (row-parallelism confirmed, see section 5) |
 | Assamese rows | none exists | must be translated from English |
 | Translation | IndicTrans2 | licence; record exact model version |
 | Transliteration | TODO — pick one | licence; record exact version |
@@ -294,8 +303,7 @@ Named so they do not creep in:
 
 ## Open TODOs
 
-1. Are `mteb/amazon_massive_intent` `hi` rows row-parallel with `en`? If not,
-   Hindi is a separate sample and the controlled-experiment claim weakens.
+1. ~~Row-parallelism of `hi` and `en`~~ — resolved 2026-09-27, see section 5.
 2. Licences for the dataset, IndicTrans2, and the chosen transliteration tool.
 3. Named verifiers for Assamese and Hindi, with realistic item counts.
 4. Which transliteration tool and version.
