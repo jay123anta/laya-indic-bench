@@ -1,0 +1,100 @@
+{"text": "wake me up at five am this week", "label_text": "alarm_set"}
+{"text": "quiet", "label_text": "audio_volume_mute"}
+{"text": "pink is all we need", "label_text": "iot_hue_lightchange"}
+{"text": "and the darkness has fallen", "label_text": "iot_hue_lighton"}
+{"text": "olly turn the lights off in the bedroom", "label_text": "iot_hue_lightoff"}
+{"text": "it's dirty here make some noise", "label_text": "iot_cleaning"}
+{"text": "hoover the hallway", "label_text": "iot_cleaning"}
+{"text": "i want the status on my screen brightness", "label_text": "general_quirky"}
+{"text": "what's up olly", "label_text": "general_greet"}
+{"text": "what's the time in australia", "label_text": "datetime_query"}
+{"text": "olly tell me the time in g. m. t. plus five", "label_text": "datetime_convert"}
+{"text": "cancel my seven am alarm", "label_text": "alarm_remove"}
+{"text": "what alarms i have set", "label_text": "alarm_query"}
+{"text": "tell me about my alarms", "label_text": "alarm_query"}
+{"text": "i like senatra songs", "label_text": "music_likeness"}
+{"text": "set lights brightness higher", "label_text": "iot_hue_lightup"}
+{"text": "tell me today's date", "label_text": "datetime_query"}
+{"text": "what date is it today", "label_text": "datetime_query"}
+{"text": "could you order sushi for tonight dinner", "label_text": "takeaway_order"}
+{"text": "what's the week's forecast", "label_text": "weather_query"}
+{"text": "what's this week's weather", "label_text": "weather_query"}
+{"text": "tell me the weather this week", "label_text": "weather_query"}
+{"text": "send a giggle my way", "label_text": "general_joke"}
+{"text": "olly tell me a joke", "label_text": "general_joke"}
+{"text": "what's the date", "label_text": "datetime_query"}
+{"text": "order a takeaway", "label_text": "takeaway_order"}
+{"text": "i like this song", "label_text": "music_likeness"}
+{"text": "play it again please", "label_text": "play_music"}
+{"text": "lower the lights", "label_text": "iot_hue_lightdim"}
+{"text": "can they provide takeaway", "label_text": "takeaway_query"}
+{"text": "can they do delivery", "label_text": "takeaway_query"}
+{"text": "do they deliver home", "label_text": "takeaway_query"}
+{"text": "olly do they deliver home", "label_text": "takeaway_query"}
+{"text": "set wake up thursday seven am", "label_text": "alarm_set"}
+{"text": "tell me some business news", "label_text": "news_query"}
+{"text": "tell me international news", "label_text": "news_query"}
+{"text": "play my rock playlist", "label_text": "play_music"}
+{"text": "turn on my playlist and play third song in the queue", "label_text": "play_music"}
+{"text": "mute volume", "label_text": "audio_volume_mute"}
+{"text": "what time is it", "label_text": "datetime_query"}
+{"text": "delete the alarm i just set", "label_text": "alarm_remove"}
+{"text": "how is the weather like today", "label_text": "weather_query"}
+{"text": "should i bring an umbrella tomorrow", "label_text": "weather_query"}
+{"text": "play music from my rock list", "label_text": "play_music"}
+{"text": "i feel like jazz right now how about you", "label_text": "play_music"}
+{"text": "olly play a good track from my favorite jazz player", "label_text": "play_music"}
+{"text": "i can't hear you", "label_text": "audio_volume_up"}
+{"text": "i can barely hear you", "label_text": "audio_volume_up"}
+{"text": "let's have the lights blue", "label_text": "iot_hue_lightchange"}
+{"text": "what is today's forecast for berlin", "label_text": "weather_query"}
+{"text": "what is the exchange rate of us dollar to pound sterling", "label_text": "news_query"}
+{"text": "light up the lights in the kitchen", "label_text": "iot_hue_lighton"}
+{"text": "start a vacuum cleaner", "label_text": "iot_cleaning"}
+{"text": "turn on the vacuum cleaner", "label_text": "iot_cleaning"}
+{"text": "play a nirvana playlist", "label_text": "play_music"}
+{"text": "shuffle songs by coldplay", "label_text": "play_music"}
+{"text": "what is the weather", "label_text": "weather_query"}
+{"text": "what day is new year's eve this year", "label_text": "datetime_query"}
+{"text": "please be quiet for another hour", "label_text": "audio_volume_mute"}
+{"text": "do not speak today", "label_text": "audio_volume_mute"}
+{"text": "tell me the weather in barcelona in two days from now", "label_text": "weather_query"}
+{"text": "disable my okug", "label_text": "iot_wemo_off"}
+{"text": "enable my plug", "label_text": "iot_wemo_on"}
+{"text": "seven years", "label_text": "play_music"}
+{"text": "what is the weather condition in new york", "label_text": "weather_query"}
+{"text": "i wish to know the weather in san fransico", "label_text": "weather_query"}
+{"text": "will it be rainy tomorrow", "label_text": "weather_query"}
+{"text": "will it rain tomorrow", "label_text": "weather_query"}
+{"text": "what day of the week is first april", "label_text": "datetime_query"}
+{"text": "what is the current time", "label_text": "datetime_query"}
+{"text": "play the second song from anirudh's song", "label_text": "play_music"}
+{"text": "please tell me the latest news", "label_text": "news_query"}
+{"text": "switch off the lights", "label_text": "iot_hue_lightoff"}
+{"text": "i want the music to be saved can you do it for me", "label_text": "music_likeness"}
+{"text": "what's sensational in time of india", "label_text": "news_query"}
+{"text": "turn the smart plug on", "label_text": "iot_wemo_on"}
+{"text": "play a random song from my playlist", "label_text": "play_music"}
+{"text": "play a retro song in my playlist", "label_text": "play_music"}
+{"text": "play any song by joe prsaise", "label_text": "play_music"}
+{"text": "remove the first alarm", "label_text": "alarm_remove"}
+{"text": "start playing", "label_text": "play_music"}
+{"text": "can you play rock music for the next hour", "label_text": "play_music"}
+{"text": "can you tell me a joke", "label_text": "general_joke"}
+{"text": "tell me a funny joke", "label_text": "general_joke"}
+{"text": "what are the breaking news", "label_text": "news_query"}
+{"text": "power up the plug socket one", "label_text": "iot_wemo_on"}
+{"text": "turn off the lights in the bathroom", "label_text": "iot_hue_lightoff"}
+{"text": "turn off the bathroom lights", "label_text": "iot_hue_lightoff"}
+{"text": "what is the weather like right now", "label_text": "weather_query"}
+{"text": "open bad religion folder", "label_text": "play_music"}
+{"text": "what are the latest news headlines", "label_text": "news_query"}
+{"text": "what's happening in the news", "label_text": "news_query"}
+{"text": "raise volume", "label_text": "audio_volume_up"}
+{"text": "run coffee maker", "label_text": "iot_coffee"}
+{"text": "get me the latest stock price for costco", "label_text": "news_query"}
+{"text": "change the bedroom lights to green", "label_text": "iot_hue_lightchange"}
+{"text": "change the lights to dim", "label_text": "iot_hue_lightdim"}
+{"text": "play the weekend", "label_text": "play_music"}
+{"text": "what mistakes do you usually make", "label_text": "general_quirky"}
+{"text": "who is the singer of song", "label_text": "music_query"}

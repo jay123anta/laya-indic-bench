@@ -1,0 +1,100 @@
+{"text": "शिमला में क्या टाइम हो रहा है", "label_text": "datetime_query"}
+{"text": "क्या बाहर ठंड है", "label_text": "weather_query"}
+{"text": "अच्छा मज़ाक क्या है", "label_text": "general_joke"}
+{"text": "ए. आर. रहमान के गाने खोले", "label_text": "play_music"}
+{"text": "क्या क्या अलार्म्स सेट हैं", "label_text": "alarm_query"}
+{"text": "अंक प्राप्त करके", "label_text": "weather_query"}
+{"text": "जितनी जल्दी हो सके आदेश तैयार करें", "label_text": "takeaway_query"}
+{"text": "क्या आप कोई चुटकुला जानते हैं", "label_text": "general_joke"}
+{"text": "सुबह नौ बजे का अलार्म लगाओ", "label_text": "alarm_set"}
+{"text": "नेहा कक्कड़ द्वारा गाया गया गाना बजाएं", "label_text": "play_music"}
+{"text": "सोनू निगम का कल हो ना हो चालू करें", "label_text": "play_music"}
+{"text": "सुबह आठ बजे का अलार्म बंद करें", "label_text": "alarm_remove"}
+{"text": "बत्ती का रंग बदलें", "label_text": "iot_hue_lightchange"}
+{"text": "प्लेलिस्ट द्वारा सभी चालू करें", "label_text": "play_music"}
+{"text": "ताजा खबर को दिखाओ", "label_text": "news_query"}
+{"text": "आज के लिए नई खबर क्या है", "label_text": "news_query"}
+{"text": "वर्तमान मौसम क्या है", "label_text": "weather_query"}
+{"text": "बंद करने के बाद", "label_text": "audio_volume_up"}
+{"text": "कृपया अगले शनिवार सुबह आठ बजे जागो अलार्म बजाएं", "label_text": "alarm_set"}
+{"text": "प्लेलिस्ट शुरू करो", "label_text": "play_music"}
+{"text": "कृपया रेडियो अरिजीत सिंह गाना बजाएं", "label_text": "play_music"}
+{"text": "गुजरात पाइपलाइन के बारे में समाचार के लिए अधिसूचना सेट करें", "label_text": "news_query"}
+{"text": "वैक्यूम क्लीनर को शुरू कर दो", "label_text": "iot_cleaning"}
+{"text": "कक्ष की बत्तियां बंद करो", "label_text": "iot_hue_lightoff"}
+{"text": "भारत में वर्तमान समय", "label_text": "datetime_query"}
+{"text": "क्या आप रोशनी कम कर सकते हैं", "label_text": "iot_hue_lightdim"}
+{"text": "मैं दो burgers और एक coke चाहता हूं यह जल्दी से ऑर्डर करो", "label_text": "takeaway_order"}
+{"text": "मुझे बिटकॉइन की कीमत के बारे में सूचित रखें", "label_text": "news_query"}
+{"text": "न्यू यॉर्क में अभी समय क्या है", "label_text": "datetime_query"}
+{"text": "हाय क्या आप कृपया बत्तियाँ कम कर सकते हैं", "label_text": "iot_hue_lightdim"}
+{"text": "मैं न्यूज़ नेशन से अंतिम समाचार सुनना चाहता हूँ", "label_text": "news_query"}
+{"text": "सप्ताह के मौसम के विवरण को संक्षेप में प्रस्तुत करें", "label_text": "weather_query"}
+{"text": "बत्तियाँ बुझा दें", "label_text": "iot_hue_lightoff"}
+{"text": "आज बाहर सर्दी कितनी है", "label_text": "weather_query"}
+{"text": "जब तक मैं न कहूं बात मत करो", "label_text": "audio_volume_mute"}
+{"text": "मैं इस गाने के बारे में जानना चाहता हूँ", "label_text": "music_query"}
+{"text": "इस सप्ताह के लिए मौसम का पूर्वानुमान क्या है", "label_text": "weather_query"}
+{"text": "क्या आप कृपया मुझे मेरे नवीनतम प्रदाता से अद्यतन समाचारों की सुर्खियां दे सकते हैं", "label_text": "news_query"}
+{"text": "क्या आप मुझे नवीनतम समाचार ढूंढ सकते हैं", "label_text": "news_query"}
+{"text": "ताजा राजनीतिक खबरों के बारे में बताएं", "label_text": "news_query"}
+{"text": "मैं अरिजीत सिंह का तुम ही हो सुनना चाहता हूँ", "label_text": "play_music"}
+{"text": "bilando खेलें", "label_text": "play_music"}
+{"text": "अरिजीत सिंह द्वारा तुम ही हो प्ले करो", "label_text": "play_music"}
+{"text": "प्रेमगीत चलाओ", "label_text": "play_music"}
+{"text": "सुहावना या भारी मौसम", "label_text": "weather_query"}
+{"text": "मेरे अलार्म सेटिंग की पुष्टि करो", "label_text": "alarm_query"}
+{"text": "अरे siri स्पीकर को म्यूट कर दो", "label_text": "audio_volume_mute"}
+{"text": "बाहर का वर्तमान तापमान क्या है", "label_text": "weather_query"}
+{"text": "अरिजीत सिंह प्लेलिस्ट प्ले करो", "label_text": "play_music"}
+{"text": "कल का मौसम का पूर्वानुमान क्या रहने वाला है", "label_text": "weather_query"}
+{"text": "आगामी भारतीय चुनावों के लिए ज़ी न्यूज़ पोल की क्या चुनावी भविष्यवाणियां हैं", "label_text": "news_query"}
+{"text": "रोबोट रूमबा शुरू करें", "label_text": "iot_cleaning"}
+{"text": "मेरा सेट अलार्म", "label_text": "alarm_query"}
+{"text": "अलार्म सेटिंग", "label_text": "alarm_query"}
+{"text": "रोबोट अब शयनकक्ष को वैक्यूम करता है", "label_text": "iot_cleaning"}
+{"text": "राय बचाओ", "label_text": "music_likeness"}
+{"text": "आठ बजे का एक अलार्म सेट करो", "label_text": "alarm_set"}
+{"text": "कुछ भक्ति संगीत चालू करें", "label_text": "play_music"}
+{"text": "शाम छः बजे घर की बत्तियां हरी बनाओ", "label_text": "iot_hue_lightchange"}
+{"text": "कृपया बत्तियाँ बंद करें", "label_text": "iot_hue_lightoff"}
+{"text": "कृपया मेरा अलार्म हटाएं", "label_text": "alarm_remove"}
+{"text": "मुझे ये गाना पसंद है कृपया सुरक्षित करें", "label_text": "music_likeness"}
+{"text": "मेरी jogging playlist में से music open करो और चलाओ", "label_text": "play_music"}
+{"text": "सुबह सात बजे के लिए मेरा अलार्म लगाओ", "label_text": "alarm_set"}
+{"text": "मेरा सुबह का अलार्म चालू करो", "label_text": "alarm_set"}
+{"text": "यहाँ और भारत के बीच समय का अंतर क्या है", "label_text": "datetime_convert"}
+{"text": "मुंबई में अभी मौसम कैसा है", "label_text": "weather_query"}
+{"text": "बत्तियों की चमक बढ़ाएं", "label_text": "iot_hue_lightup"}
+{"text": "मुझे मंद बत्तियाँ चाहिए", "label_text": "iot_hue_lightdim"}
+{"text": "क्या मुझे हल्दीराम चेंज से टेक-आउट मिल सकता है", "label_text": "takeaway_query"}
+{"text": "किसी विशेष विषय पर समाचार लेख", "label_text": "news_query"}
+{"text": "कोलकाता में अभी क्या समय हो गया है", "label_text": "datetime_query"}
+{"text": "लिविंग रूम की लाइट बंद कर दो", "label_text": "iot_hue_lightoff"}
+{"text": "क्या आप बत्तियाँ बंद कर सकते हैं", "label_text": "iot_hue_lightoff"}
+{"text": "कल हो ना हो मेरे rock श्रवणसूची से बजाओ", "label_text": "play_music"}
+{"text": "नई दिल्ली में इस समय क्या समय है", "label_text": "datetime_query"}
+{"text": "लिविंग रूम में रोशनी कम करें", "label_text": "iot_hue_lightdim"}
+{"text": "कृपया folder app खोलें", "label_text": "takeaway_order"}
+{"text": "डिलीवरी के साथ निकटतम थाई रेस्तरां को कॉल करें", "label_text": "takeaway_order"}
+{"text": "मुझे अच्छे से रोने की ज़रूरत है क्या आप मेरे लिए उदास शास्त्रीय गाने बजा सकते हैं", "label_text": "play_music"}
+{"text": "स्पीकर आवाज़ कम करें", "label_text": "audio_volume_down"}
+{"text": "रोबोट वैक्यूम क्लीनर को शुरू करो", "label_text": "iot_cleaning"}
+{"text": "मुझे खेल समाचारों पर रोज की जानकारी देते रहें", "label_text": "news_query"}
+{"text": "खेल समाचार पर प्रति घंटा सूचना प्राप्त करें", "label_text": "news_query"}
+{"text": "वॉल्यूम सेटिंग कहां है", "label_text": "audio_volume_other"}
+{"text": "दालान में बत्तियां रोशन करें", "label_text": "iot_hue_lightup"}
+{"text": "कृपया स्क्रीन की चमक को पूरी तरह बढ़ा दें", "label_text": "iot_hue_lightup"}
+{"text": "रॉक मेटल मत चलाओ", "label_text": "music_dislikeness"}
+{"text": "यूजर फ्रेंडली", "label_text": "news_query"}
+{"text": "क्या आप कमरे की रौशनी बढ़ा सकते हैं", "label_text": "iot_hue_lightup"}
+{"text": "दा हिंदू की वेबसाइट पर जाएं", "label_text": "news_query"}
+{"text": "पन्द्रह मार्च को सप्ताह का कौन सा दिन पड़ता है", "label_text": "datetime_query"}
+{"text": "मेरी इच्छा कुछ देसी संगीत सुनने की है", "label_text": "play_music"}
+{"text": "सभी पॉप गीत शैलियों का समन्वय करें", "label_text": "play_music"}
+{"text": "क्या politic में कोई खास है", "label_text": "news_query"}
+{"text": "अरिजीत सिंह के द्वारा तुम ही हो को चालू करें", "label_text": "play_music"}
+{"text": "अगला गाना सोनू निगम का कल हो ना हो", "label_text": "play_music"}
+{"text": "सोनू निगम के कल हो ना हो को आगे चालू करने के लिए तैयार करें", "label_text": "play_music"}
+{"text": "शफ़ल पर सभी गाने चलाएं", "label_text": "play_music"}
+{"text": "मुझे कुछ भक्ति चाहिए", "label_text": "play_music"}

@@ -1,0 +1,100 @@
+{"text": "what time is it in new york city", "label_text": "datetime_query"}
+{"text": "is it cold outside", "label_text": "weather_query"}
+{"text": "what's a good joke", "label_text": "general_joke"}
+{"text": "open songs from major lazer", "label_text": "play_music"}
+{"text": "what alarms are set", "label_text": "alarm_query"}
+{"text": "by get marks", "label_text": "weather_query"}
+{"text": "prepare the order as soon as possible", "label_text": "takeaway_query"}
+{"text": "do you know any jokes", "label_text": "general_joke"}
+{"text": "set an alarm for nine am", "label_text": "alarm_set"}
+{"text": "play the song sung by katy perry", "label_text": "play_music"}
+{"text": "play mf doom anything", "label_text": "play_music"}
+{"text": "turn off eight am alarm", "label_text": "alarm_remove"}
+{"text": "change light color", "label_text": "iot_hue_lightchange"}
+{"text": "play all by playlist", "label_text": "play_music"}
+{"text": "show latest news", "label_text": "news_query"}
+{"text": "what is new news for today", "label_text": "news_query"}
+{"text": "what is the current weather", "label_text": "weather_query"}
+{"text": "unmute after", "label_text": "audio_volume_up"}
+{"text": "please ring the wake up alarm at eight am next saturday", "label_text": "alarm_set"}
+{"text": "start playlist", "label_text": "play_music"}
+{"text": "please play the radio gaga song", "label_text": "play_music"}
+{"text": "set notification for news about the dakota pipeline", "label_text": "news_query"}
+{"text": "please start vacuum cleaner", "label_text": "iot_cleaning"}
+{"text": "turn off room lights", "label_text": "iot_hue_lightoff"}
+{"text": "current time in japan", "label_text": "datetime_query"}
+{"text": "can you lower the lights", "label_text": "iot_hue_lightdim"}
+{"text": "i want two burgers and one coke order it fast", "label_text": "takeaway_order"}
+{"text": "keep me informed about bitcoin price", "label_text": "news_query"}
+{"text": "what is the time now in new york", "label_text": "datetime_query"}
+{"text": "hi can you please turn lower the lights", "label_text": "iot_hue_lightdim"}
+{"text": "i want to hear the last news from c. n. n.", "label_text": "news_query"}
+{"text": "summarize week's weather details", "label_text": "weather_query"}
+{"text": "turn the lights off", "label_text": "iot_hue_lightoff"}
+{"text": "how cold is it outside today", "label_text": "weather_query"}
+{"text": "don't talk until i ask you to", "label_text": "audio_volume_mute"}
+{"text": "i want to know about this song", "label_text": "music_query"}
+{"text": "what is the weather forecast for this week", "label_text": "weather_query"}
+{"text": "could you please give me up to date news headlines from my newest provider", "label_text": "news_query"}
+{"text": "could you please find me the latest news from a source that i do not usually go to", "label_text": "news_query"}
+{"text": "tell me about the latest political news", "label_text": "news_query"}
+{"text": "i want to hear snow by red hot chili peppers", "label_text": "play_music"}
+{"text": "play bilando", "label_text": "play_music"}
+{"text": "play let me love you by ariana grande", "label_text": "play_music"}
+{"text": "play love songs", "label_text": "play_music"}
+{"text": "mild or heavy weather", "label_text": "weather_query"}
+{"text": "confirm my alarm settings", "label_text": "alarm_query"}
+{"text": "hey siri mute the speakers", "label_text": "audio_volume_mute"}
+{"text": "what is the current temperature outside", "label_text": "weather_query"}
+{"text": "play bob dylan playlist", "label_text": "play_music"}
+{"text": "hey what will be the predicted weather for tomorrow", "label_text": "weather_query"}
+{"text": "what are the b. b. c. poll predictions for the upcoming us elections", "label_text": "news_query"}
+{"text": "start the robot roomba", "label_text": "iot_cleaning"}
+{"text": "my set alarms", "label_text": "alarm_query"}
+{"text": "alarm settings", "label_text": "alarm_query"}
+{"text": "robot vacuum the living room now", "label_text": "iot_cleaning"}
+{"text": "opinion save", "label_text": "music_likeness"}
+{"text": "set alarm for eight am", "label_text": "alarm_set"}
+{"text": "play some christian music", "label_text": "play_music"}
+{"text": "make the house lights amber at six p. m.", "label_text": "iot_hue_lightchange"}
+{"text": "please turn lights off", "label_text": "iot_hue_lightoff"}
+{"text": "please remove my alarm", "label_text": "alarm_remove"}
+{"text": "i like this song please save", "label_text": "music_likeness"}
+{"text": "open up and play music from my jogging playlist", "label_text": "play_music"}
+{"text": "set my alarm for seven am", "label_text": "alarm_set"}
+{"text": "turn my morning alarm on", "label_text": "alarm_set"}
+{"text": "what is the time difference between here and japan", "label_text": "datetime_convert"}
+{"text": "what's the weather like right now in new york", "label_text": "weather_query"}
+{"text": "increase the brightness of the lights", "label_text": "iot_hue_lightup"}
+{"text": "i want dimmer lights", "label_text": "iot_hue_lightdim"}
+{"text": "can i get take-out from pf changs", "label_text": "takeaway_query"}
+{"text": "news articles on a particular subject", "label_text": "news_query"}
+{"text": "what time is it in new york now", "label_text": "datetime_query"}
+{"text": "turn the living room's light off", "label_text": "iot_hue_lightoff"}
+{"text": "could you turn the light off", "label_text": "iot_hue_lightoff"}
+{"text": "play creed from my rock playlist", "label_text": "play_music"}
+{"text": "what time is it in london right now", "label_text": "datetime_query"}
+{"text": "dim the lights in the living room", "label_text": "iot_hue_lightdim"}
+{"text": "open the folder app please", "label_text": "takeaway_order"}
+{"text": "call the nearest thai restaurant with delivery", "label_text": "takeaway_order"}
+{"text": "i need a good cry can you play me sad rock songs", "label_text": "play_music"}
+{"text": "lower the speaker volume", "label_text": "audio_volume_down"}
+{"text": "turn on the robot vacuum cleaner", "label_text": "iot_cleaning"}
+{"text": "give me up to date on sports news", "label_text": "news_query"}
+{"text": "get hourly notification on sports news", "label_text": "news_query"}
+{"text": "where is volume setting", "label_text": "audio_volume_other"}
+{"text": "brighten the lights in the hallway", "label_text": "iot_hue_lightup"}
+{"text": "please turn up the screen brightness all the way", "label_text": "iot_hue_lightup"}
+{"text": "do not play rock metal", "label_text": "music_dislikeness"}
+{"text": "user friendly", "label_text": "news_query"}
+{"text": "can you increase the brightness in the room", "label_text": "iot_hue_lightup"}
+{"text": "go to the washington post website", "label_text": "news_query"}
+{"text": "what day of the week does the fifteenth of march fall on", "label_text": "datetime_query"}
+{"text": "my desire is to listen to some country music", "label_text": "play_music"}
+{"text": "coordinate all pop song genres", "label_text": "play_music"}
+{"text": "is there any special in politic", "label_text": "news_query"}
+{"text": "play lady by kenny roger", "label_text": "play_music"}
+{"text": "next play justin bieber's sorry", "label_text": "play_music"}
+{"text": "get sia's cheap thrills ready to play next", "label_text": "play_music"}
+{"text": "play all songs on shuffle", "label_text": "play_music"}
+{"text": "i need some rap", "label_text": "play_music"}
