@@ -1,0 +1,14 @@
+{
+ "dataset": "mteb/amazon_massive_intent",
+ "split": "test",
+ "rows_compared": 200,
+ "len_en": 2974,
+ "len_hi": 2974,
+ "same_length": true,
+ "label_match": 200,
+ "label_match_rate": 1.0,
+ "identical_text": 0,
+ "hi_rows_in_devanagari": 200,
+ "verdict": "parallel",
+ "note": "hi rows align with en rows row-for-row; all conditions can rest on the same underlying utterances"
+}
