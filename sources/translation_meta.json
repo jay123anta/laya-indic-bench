@@ -1,0 +1,22 @@
+{
+ "model_id": "ai4bharat/indictrans2-en-indic-dist-200M",
+ "src_lang": "eng_Latn",
+ "tgt_lang": "asm_Beng",
+ "num_beams": 5,
+ "batch_size": 16,
+ "preprocessing": "IndicTransToolkit IndicProcessor(inference=True)",
+ "postprocessing": "IndicProcessor.postprocess_batch — transliterates the model's Devanagari output into Assamese script",
+ "generation": "use_cache=False — IndicTrans2's code predates the transformers Cache API",
+ "transformers_version": "4.57.6",
+ "transformers_pinned": "<5, required by IndicTrans2 and IndicTransToolkit",
+ "torch_version": "2.10.0+cu128",
+ "source_dataset": "mteb/amazon_massive_intent",
+ "source_split": "test",
+ "source_rows": "1-200 of the en config",
+ "script_check": {
+  "bengali_assamese_chars": 5171,
+  "stray_devanagari_chars": 0,
+  "danda_punctuation": 6
+ },
+ "note": "machine-translated, NOT human-translated; human verification is a separate step recorded in the data card"
+}
