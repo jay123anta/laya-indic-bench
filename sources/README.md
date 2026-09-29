@@ -35,8 +35,17 @@ Laya's licence to be confirmed from its repo before release.
 
 ## IndicTrans2 — Assamese translation
 
-- Model id and version: TODO
-- Licence: TODO
+- Model: `ai4bharat/indictrans2-en-indic-dist-200M` (gated; access granted 2026-09-27)
+- Licence: <check the model page>
+- Direction: eng_Latn -> asm_Beng, 5 beams
+- Pipeline: IndicTransToolkit `IndicProcessor(inference=True)` for pre- and
+  post-processing. Postprocessing is required: IndicTrans2 works internally
+  in Devanagari and `postprocess_batch` transliterates into Assamese script.
+- Environment: transformers pinned <5 (4.57.6), torch 2.10.0+cu128,
+  `use_cache=False` (the model's code predates the transformers Cache API)
+- Script check: 5,171 Assamese characters, 0 stray Devanagari, 6 danda
+- **Machine-translated, not human-translated.** Verification is a separate
+  step; see the data card.
 
 ## Transliteration
 
