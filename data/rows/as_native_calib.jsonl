@@ -1,0 +1,100 @@
+{"text": "নিউয়ৰ্ক চহৰত এতিয়া কিমান বজিছে", "label_text": "datetime_query"}
+{"text": "বাহিৰত ঠাণ্ডা আছে নেকি", "label_text": "weather_query"}
+{"text": "এটা ভাল কৌতুক কি", "label_text": "general_joke"}
+{"text": "মেজৰ লেজাৰৰ পৰা গানবোৰ খোলক", "label_text": "play_music"}
+{"text": "কি কি এলাৰ্ম ছেট কৰা আছে", "label_text": "alarm_query"}
+{"text": "নম্বৰ লাভ কৰি", "label_text": "weather_query"}
+{"text": "যিমান সোনকালে সম্ভৱ অৰ্ডাৰটো প্ৰস্তুত কৰক", "label_text": "takeaway_query"}
+{"text": "আপুনি কিবা কৌতুক জানেনে", "label_text": "general_joke"}
+{"text": "পুৱা ন বজাৰ বাবে এটা এলাৰ্ম ছেট কৰক", "label_text": "alarm_set"}
+{"text": "কেটি পেৰীয়ে গোৱা গানটো বজোৱা", "label_text": "play_music"}
+{"text": "এম. এফ. ডুম যিকোনো বজোৱা", "label_text": "play_music"}
+{"text": "পুৱা আঠ বজাৰ এলাৰ্ম বন্ধ কৰা", "label_text": "alarm_remove"}
+{"text": "পোহৰৰ ৰং সলনি কৰক", "label_text": "iot_hue_lightchange"}
+{"text": "প্লে'লিষ্টৰ দ্বাৰা সকলো বজোৱা", "label_text": "play_music"}
+{"text": "শেহতীয়া বাতৰি দেখুৱাওক", "label_text": "news_query"}
+{"text": "আজিৰ বাবে নতুন বাতৰি কি", "label_text": "news_query"}
+{"text": "বৰ্তমান বতৰ কেনেকুৱা", "label_text": "weather_query"}
+{"text": "তাৰ পিছত আনমিউট কৰক", "label_text": "audio_volume_up"}
+{"text": "অনুগ্ৰহ কৰি অহা শনিবাৰে পুৱা আঠ বজাত ৱেক আপ এলাৰ্মটো বজোৱা", "label_text": "alarm_set"}
+{"text": "প্লে'লিষ্ট আৰম্ভ কৰক", "label_text": "play_music"}
+{"text": "অনুগ্ৰহ কৰি ৰেডিঅ'গাগা গানটো বজোৱা", "label_text": "play_music"}
+{"text": "ডাকোটা পাইপলাইনৰ বিষয়ে বাতৰিৰ বাবে জাননী ছেট কৰক", "label_text": "news_query"}
+{"text": "অনুগ্ৰহ কৰি ভেকুৱাম ক্লিনাৰ আৰম্ভ কৰক", "label_text": "iot_cleaning"}
+{"text": "কোঠাৰ লাইটবোৰ বন্ধ কৰা", "label_text": "iot_hue_lightoff"}
+{"text": "জাপানত বৰ্তমানৰ সময়", "label_text": "datetime_query"}
+{"text": "তুমি লাইটবোৰ কম কৰিব পাৰিবা নেকি", "label_text": "iot_hue_lightdim"}
+{"text": "মই দুটা বাৰ্গাৰ আৰু এটা কোক বিচাৰোঁ ইয়াক সোনকালে অৰ্ডাৰ কৰা", "label_text": "takeaway_order"}
+{"text": "মোক বিটকোইনৰ মূল্যৰ বিষয়ে অৱগত কৰি ৰাখক", "label_text": "news_query"}
+{"text": "নিউয়ৰ্কত এতিয়া সময় কিমান", "label_text": "datetime_query"}
+{"text": "হাই আপুনি অনুগ্ৰহ কৰি লাইটবোৰ কম কৰিব পাৰিবনে", "label_text": "iot_hue_lightdim"}
+{"text": "মই চি. এন. এন.-ৰ পৰা শেষ খবৰটো শুনিব বিচাৰো।", "label_text": "news_query"}
+{"text": "সপ্তাহৰ বতৰৰ সবিশেষ সংক্ষিপ্ত কৰক", "label_text": "weather_query"}
+{"text": "লাইটবোৰ বন্ধ কৰা", "label_text": "iot_hue_lightoff"}
+{"text": "আজি বাহিৰত কিমান ঠাণ্ডা", "label_text": "weather_query"}
+{"text": "মই সুধিব নোৱাৰালৈকে কথা নক'বা", "label_text": "audio_volume_mute"}
+{"text": "মই এই গানটোৰ বিষয়ে জানিব বিচাৰো", "label_text": "music_query"}
+{"text": "এই সপ্তাহৰ বতৰৰ পূৰ্বানুমান কি", "label_text": "weather_query"}
+{"text": "আপুনি অনুগ্ৰহ কৰি মোক মোৰ নতুন প্ৰদানকাৰীৰ পৰা আপ টু ডেট বাতৰিৰ শীৰ্ষক বাতৰি দিব পাৰিবনে", "label_text": "news_query"}
+{"text": "আপুনি অনুগ্ৰহ কৰি মোক এটা উৎসৰ পৰা শেহতীয়া বাতৰি বিচাৰি পাব পাৰিবনে য'লৈ মই সাধাৰণতে নাযায়", "label_text": "news_query"}
+{"text": "মোক শেহতীয়া ৰাজনৈতিক বাতৰিবোৰৰ বিষয়ে কোৱা", "label_text": "news_query"}
+{"text": "মই ৰঙা গৰম জলকীয়াৰ বৰফৰ শব্দ শুনিব বিচাৰো", "label_text": "play_music"}
+{"text": "বিলান্দো বজোৱা", "label_text": "play_music"}
+{"text": "আৰিয়ানা গ্ৰেণ্ডেৰ লেট মি লাভ ইউ বজোৱা", "label_text": "play_music"}
+{"text": "প্ৰেমৰ গানবোৰ বজোৱা", "label_text": "play_music"}
+{"text": "মৃদু বা গধুৰ বতৰ", "label_text": "weather_query"}
+{"text": "মোৰ এলাৰ্মৰ সংহতিসমূহ নিশ্চিত কৰক", "label_text": "alarm_query"}
+{"text": "হেই ছিৰি স্পিকাৰবোৰ মিউট কৰা", "label_text": "audio_volume_mute"}
+{"text": "বাহিৰৰ বৰ্তমানৰ তাপমাত্ৰা কিমান", "label_text": "weather_query"}
+{"text": "বব ডিলান প্লে'লিষ্ট বজোৱা", "label_text": "play_music"}
+{"text": "হেই, কাইলৈৰ বতৰ কি হ'ব বুলি পূৰ্বানুমান কৰা হৈছে", "label_text": "weather_query"}
+{"text": "আগন্তুক আমেৰিকা যুক্তৰাষ্ট্ৰৰ নিৰ্বাচনৰ বাবে বি. বি. চি. নিৰ্বাচনৰ ভৱিষ্যদ্বাণীবোৰ কি কি", "label_text": "news_query"}
+{"text": "ৰবট ৰুম্বাটো আৰম্ভ কৰক", "label_text": "iot_cleaning"}
+{"text": "মোৰ ছেট কৰা এলাৰ্মসমূহ", "label_text": "alarm_query"}
+{"text": "এলাৰ্মৰ সংহতিসমূহ", "label_text": "alarm_query"}
+{"text": "ৰবটৰ এতিয়া থকা কোঠাটো ভেকুৱাম কৰক", "label_text": "iot_cleaning"}
+{"text": "মতামত সংৰক্ষণ কৰক", "label_text": "music_likeness"}
+{"text": "পুৱা আঠ বজাৰ বাবে এলাৰ্ম ছেট কৰক", "label_text": "alarm_set"}
+{"text": "কিছু খ্ৰীষ্টান সংগীত বজোৱা", "label_text": "play_music"}
+{"text": "সন্ধিয়া ছয় বজাত ঘৰৰ লাইটবোৰ এম্বাৰ কৰা।", "label_text": "iot_hue_lightchange"}
+{"text": "অনুগ্ৰহ কৰি লাইটবোৰ বন্ধ কৰা", "label_text": "iot_hue_lightoff"}
+{"text": "অনুগ্ৰহ কৰি মোৰ এলাৰ্মটো আঁতৰাই দিয়ক", "label_text": "alarm_remove"}
+{"text": "মই এই গানটো ভাল পাওঁ অনুগ্ৰহ কৰি সংৰক্ষণ কৰক", "label_text": "music_likeness"}
+{"text": "মোৰ জগিং প্লে'লিষ্টৰ পৰা সংগীত খোলক আৰু বজোৱা", "label_text": "play_music"}
+{"text": "মোৰ এলাৰ্মটো পুৱা সাত বজাৰ বাবে ছেট কৰক", "label_text": "alarm_set"}
+{"text": "মোৰ ৰাতিপুৱাৰ এলাৰ্মটো অন কৰা", "label_text": "alarm_set"}
+{"text": "ইয়াত আৰু জাপানৰ মাজত সময়ৰ পাৰ্থক্য কিমান", "label_text": "datetime_convert"}
+{"text": "নিউয়ৰ্কত এতিয়া বতৰ কেনেকুৱা", "label_text": "weather_query"}
+{"text": "লাইটবোৰৰ উজ্জ্বলতা বৃদ্ধি কৰক", "label_text": "iot_hue_lightup"}
+{"text": "মই ম্লান লাইট বিচাৰোঁ", "label_text": "iot_hue_lightdim"}
+{"text": "মই পি. এফ. চাংছৰ পৰা টেক-আউট পাব পাৰিমনে", "label_text": "takeaway_query"}
+{"text": "এটা নিৰ্দিষ্ট বিষয়ৰ ওপৰত বাতৰি প্ৰবন্ধ", "label_text": "news_query"}
+{"text": "নিউয়ৰ্কত এতিয়া কিমান বজিছে", "label_text": "datetime_query"}
+{"text": "লিভিং ৰুমৰ লাইট অফ কৰা", "label_text": "iot_hue_lightoff"}
+{"text": "আপুনি লাইটটো বন্ধ কৰিব পাৰিবনে", "label_text": "iot_hue_lightoff"}
+{"text": "মোৰ ৰক প্লে'লিষ্টৰ পৰা ক্রিড বজোৱা", "label_text": "play_music"}
+{"text": "লণ্ডনত এতিয়া কিমান বজিছে", "label_text": "datetime_query"}
+{"text": "লিভিং ৰুমৰ লাইটবোৰ ম্লান কৰা", "label_text": "iot_hue_lightdim"}
+{"text": "অনুগ্ৰহ কৰি ফোল্ডাৰ এপটো খোলক", "label_text": "takeaway_order"}
+{"text": "ডেলিভাৰীৰ সৈতে নিকটতম থাই ৰেষ্টুৰেণ্টত কল কৰক", "label_text": "takeaway_order"}
+{"text": "মোক এটা ভাল কান্দোন লাগে তুমি মোক চেড ৰক গান বজোৱাব পাৰিবা নেকি", "label_text": "play_music"}
+{"text": "স্পিকাৰৰ ভলিউম হ্ৰাস কৰক", "label_text": "audio_volume_down"}
+{"text": "ৰবট ভেকুৱাম ক্লিনাৰটো অন কৰক", "label_text": "iot_cleaning"}
+{"text": "মোক ক্ৰীড়াৰ বাতৰিৰ বিষয়ে আপ টু ডেট দিয়ক", "label_text": "news_query"}
+{"text": "ক্ৰীড়াৰ বাতৰিৰ বিষয়ে ঘণ্টা অনুসৰি জাননী লাভ কৰক", "label_text": "news_query"}
+{"text": "ভলিউম ছেটিং ক'ত আছে", "label_text": "audio_volume_other"}
+{"text": "হলৱেৰ লাইটবোৰ উজ্জ্বল কৰা", "label_text": "iot_hue_lightup"}
+{"text": "অনুগ্ৰহ কৰি পৰ্দাৰ উজ্জ্বলতা সকলো দিশতে বৃদ্ধি কৰক", "label_text": "iot_hue_lightup"}
+{"text": "ৰক মেটাল নুবিব", "label_text": "music_dislikeness"}
+{"text": "ব্যৱহাৰকাৰী অনুকূল", "label_text": "news_query"}
+{"text": "আপুনি কোঠাটোৰ উজ্জ্বলতা বৃদ্ধি কৰিব পাৰিবনে?", "label_text": "iot_hue_lightup"}
+{"text": "ৱাশ্বিংটন পোষ্ট ৱেবছাইটলৈ যাওক", "label_text": "news_query"}
+{"text": "পঞ্চদশ মাৰ্চ সপ্তাহৰ কোন দিনা পৰে", "label_text": "datetime_query"}
+{"text": "মোৰ ইচ্ছা হ'ল কিছু দেশী সংগীত শুনিবলৈ।", "label_text": "play_music"}
+{"text": "সকলো পপ গীতৰ ধাৰাৰ সমন্বয় কৰক", "label_text": "play_music"}
+{"text": "ৰাজনীতিত কিবা বিশেষতা আছে নেকি", "label_text": "news_query"}
+{"text": "কেনি ৰ'গাৰৰ লেডি বজোৱা", "label_text": "play_music"}
+{"text": "পৰৱৰ্তী বজোৱা জাষ্টিন বাইবাৰৰ ক্ষমা কৰক", "label_text": "play_music"}
+{"text": "ছিয়াৰ সস্তীয়া ৰোমাঞ্চবোৰ পৰৱৰ্তী খেলত খেলিবলৈ সাজু কৰা", "label_text": "play_music"}
+{"text": "শ্বাফলত সকলো গান বজোৱা", "label_text": "play_music"}
+{"text": "মোক অলপ ৰেপ লাগে", "label_text": "play_music"}
